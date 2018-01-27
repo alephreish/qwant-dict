@@ -3,7 +3,7 @@ qwant-dict
 
 qwant-dict is a visual dictionary, a bash micro-wrapper for the [qwant](http://qwant.com/) API. It accepts a single word as the sole argument and outputs a simplistic html page, intended for use from within [goldendict](https://github.com/goldendict/goldendict).
 
-![qwant-screentshot](https://user-images.githubusercontent.com/2794008/35472684-59b6b10c-037c-11e8-8143-0dfc25178258.png)
+<img alt="qwant-screentshot" src="https://user-images.githubusercontent.com/2794008/35472684-59b6b10c-037c-11e8-8143-0dfc25178258.png" width="500">
 
 Installation
 ------------
@@ -13,7 +13,7 @@ qwant-dict depends on [bash](https://www.gnu.org/software/bash/), [curl](https:/
 Usage
 -----
 
-`bash qwant-dict word`
+`bash /path/to/qwant-dict/qwant.sh word`
 
 To add qwant-dict as a dictionary to goldendict:
 
